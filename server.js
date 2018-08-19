@@ -1,6 +1,5 @@
 var express = require("express");
 var bodyParser = require("body-parser");
-
 var app = express();
 
 var PORT = process.env.PORT || 8080;
@@ -14,5 +13,5 @@ require("./routing/apiRoutes")(app);
 require("./routing/htmlRoutes")(app);
 
 app.listen(PORT, function() {
-    console.log("APP on PORT: " + PORT);
+    console.log("Your online using: " + PORT);
 });
