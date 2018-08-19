@@ -1,7 +1,7 @@
 var friends = [
     {
         name: "Bugs Bunny",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo: "https://i.ebayimg.com/images/g/Q9gAAOSwmgJY29lJ/s-l300.jpg",
         scores: [
           "5",
           "1",
@@ -18,7 +18,7 @@ var friends = [
 
       {
         name: "Elmer Fudd",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo: "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/ElmerFudd.gif/220px-ElmerFudd.gif",
         scores: [
           "1",
           "3",
@@ -35,7 +35,7 @@ var friends = [
 
       {
         name: "Daffy Duck",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo: "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Daffy_Duck_2011.svg/145px-Daffy_Duck_2011.svg.png",
         scores: [
           "1",
           "5",
