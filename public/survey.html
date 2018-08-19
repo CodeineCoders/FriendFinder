@@ -210,6 +210,8 @@
         // Saves users input
         $("#submit").on("click", function(event) {
           event.preventDefault();
+          console.log("#submit");
+          // making sure no empty slots.
           function validateForm() {
             var isValid = true;
             $(".chosen-select").each(function() {
