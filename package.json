@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaCzech/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaCzech/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/RaCzech/FriendFinder#readme",
+  "dependencies": {
+    "npm-install-all": "^1.1.21"
+  }
+}
