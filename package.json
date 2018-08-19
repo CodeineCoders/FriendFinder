@@ -19,6 +19,7 @@
   "homepage": "https://github.com/RaCzech/FriendFinder#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "npm-install-all": "^1.1.21"
+    "npm-install-all": "^1.1.21",
+    "require": "^2.4.20"
   }
 }
